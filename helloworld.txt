@@ -1,3 +1,5 @@
 ﻿Olá Mundo!
 
 Elaine mudou o arquivo.
+
+exit
