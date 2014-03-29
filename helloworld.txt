@@ -2,4 +2,4 @@
 
 Elaine mudou o arquivo.
 
-exit
+Conflito.
